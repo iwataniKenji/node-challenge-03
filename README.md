@@ -8,6 +8,7 @@
 
 <p align="center">
     <a href="#description">📙 Description</a>
+    <a href="#preview">🖼️ Preview</a>
     <a href="#tests">⚙️ Tests</a>
     <a href="#technologies">💻 Technologies</a>
 </p>
@@ -22,6 +23,14 @@
 <p>
     <h3><a href="https://www.notion.so/Desafio-03-Corrigindo-o-c-digo-c15c8a2e212846039a367cc7b763c6dd">Challenge description &rarr;</a></h3>
 </p>
+
+---
+
+<H2 id="preview">🖼️ Preview</H2>
+<p>Usage of all HTTP methods included on the API</p>
+<section align="center">
+    <img alt="api overview at insomnia" src="./preview.gif"/>
+</section>
 
 ---
 
